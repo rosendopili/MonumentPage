@@ -13,7 +13,7 @@ Clone this repo `git@github.com:rosendopili/MonumentPage.git`
 
 ## General Approach
 
-With the provided images and screenshots of the desired final product, I was able to create a mock-up of monument-style webpage.  
+With the provided images and screenshots of the desired final product, I was able to create a mock-up of a monument-style webpage.  
 
 
 ## Deliverable
